@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faltu-Programmer,
+- 👋 Hi, I’m @Faltu-Programmer (Mama),
 - i'm actually new to this amazing tech world, technologies like webapps, softwares are always wonder me how they work,
 how they manage, access, process and do tons of operations on the huge amount of data.
 
